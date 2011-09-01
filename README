@@ -1,3 +1,3 @@
-'''Google Address Correctly Utility:'''
+h1. Google Address Correctly Utility:
 
 This python script is designed to take a CSV export of your google contacts and split the single combined address that google outputs in to their respective columns in the CSV file. Running the script will prompt you for the original CSV file from google and then again prompt you to save the corrected results.
